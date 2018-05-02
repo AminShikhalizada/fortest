@@ -1,1 +1,1 @@
-# fortest AZERCELL ... file is changed .......................newnenwwnenwnenw####
+# fortest AZERCELL ... file is changed . ANSIBLE
