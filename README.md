@@ -1,1 +1,1 @@
-# fortest AZERCELL ... file is changed . ANSIBLE NEW  NEW  ............. ######################$$$$$$$$$$$
+#FORTEST FILE IS CHANGED IN JENKINS VS ANSIBLE
